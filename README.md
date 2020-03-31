@@ -5,3 +5,5 @@ I am available immediately for any Web Developer, Full Stack Developer, and Fron
 I have Master of Computer Science Degree and 10 years of software and web programming and development experience.
 I have recently completed a 15 months contract with Renewity Systems Inc. as Full Stack Developer with emphasis on business apps using multi-threading.
 I am currently pursuing online courses on required IT skills using Pluralsight and Codecademy online tutorials on Internet.
+
+In 'readme-edits', this comment-line (#9) is present only in branch 'rerdme-edit'.
